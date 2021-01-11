@@ -1,5 +1,9 @@
-.App {
+.home {
   text-align: center;
+}
+.home li {
+  display: inline;
+  margin: 20px;
 }
 
 .App-logo {
